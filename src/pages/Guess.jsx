@@ -21,7 +21,7 @@ function Quiz() {
         
         const optionIds = new Set([randomId]);
         while (optionIds.size < 4) {
-        optionIds.add(Math.floor(Math.random() * 151) + 1);
+        optionIds.add(Math.floor(Math.random() * 1000) + 1);
         }
 
         const promises = Array.from(optionIds).map((id) =>
