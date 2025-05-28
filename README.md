@@ -17,10 +17,10 @@ Client-side routing using React Router.
 
 Easy to extend with additional features like quizzes and advanced interactions.
 _____________________________________________________________________________________
-Screenshots
-![image](https://github.com/user-attachments/assets/829971fb-9654-4236-bfdb-4c0c58fd36f2)
-![image](https://github.com/user-attachments/assets/a1f3cd50-176a-477e-a732-d9ea2dbe72ff)
-![image](https://github.com/user-attachments/assets/2f3af3a9-c1b4-4853-9ca9-3dfec2ec8cbc)
+Screenshots:
+![Screenshot 2025-05-28 125111](https://github.com/user-attachments/assets/5739bb7d-e0a6-4c26-a0fe-50fe65fa00ef)
+![Screenshot 2025-05-28 125154](https://github.com/user-attachments/assets/456b69d8-7a86-4c93-a0b7-0937fedad87a)
+![Screenshot 2025-05-28 125403](https://github.com/user-attachments/assets/adfb0dfd-7f34-4218-9992-65c7bd4495c0)
 _____________________________________________________________________________________
 Installation
 Clone the repo:
